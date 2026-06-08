@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🚀 **Full Stack Developer** & **DevOps Enthusiast** from **Indonesia 🇮🇩**
+- 🚀 **Full Stack Developer** & **DevOps Enthusiast** from **Indonesia**
 - 🔧 Passionate about building scalable apps and automating infrastructure
 - 🌱 Currently deepening skills in **CI/CD**, **Docker**, **Next.js** & **React Native**
 - ⚙️ I enjoy bridging the gap between development and operations
